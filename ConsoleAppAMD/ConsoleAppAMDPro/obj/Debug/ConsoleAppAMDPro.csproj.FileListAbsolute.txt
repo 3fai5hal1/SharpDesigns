@@ -1,0 +1,7 @@
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppAMD\ConsoleAppAMDPro\obj\Debug\ConsoleAppAMDPro.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppAMD\ConsoleAppAMDPro\obj\Debug\ConsoleAppAMDPro.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppAMD\ConsoleAppAMDPro\bin\Debug\ConsoleAppAMDPro.exe.config
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppAMD\ConsoleAppAMDPro\bin\Debug\ConsoleAppAMDPro.exe
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppAMD\ConsoleAppAMDPro\bin\Debug\ConsoleAppAMDPro.pdb
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppAMD\ConsoleAppAMDPro\obj\Debug\ConsoleAppAMDPro.exe
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppAMD\ConsoleAppAMDPro\obj\Debug\ConsoleAppAMDPro.pdb

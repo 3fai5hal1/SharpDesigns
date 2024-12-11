@@ -1,0 +1,7 @@
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppClassC\ConsoleAppClassC\bin\Debug\ConsoleAppClassC.exe.config
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppClassC\ConsoleAppClassC\bin\Debug\ConsoleAppClassC.exe
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppClassC\ConsoleAppClassC\bin\Debug\ConsoleAppClassC.pdb
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppClassC\ConsoleAppClassC\obj\Debug\ConsoleAppClassC.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppClassC\ConsoleAppClassC\obj\Debug\ConsoleAppClassC.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppClassC\ConsoleAppClassC\obj\Debug\ConsoleAppClassC.exe
+C:\Users\HASIB\Dropbox\AIUB\28. Fall 2024-25\OOP-2\Projects\ConsoleAppClassC\ConsoleAppClassC\obj\Debug\ConsoleAppClassC.pdb
